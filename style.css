@@ -1,0 +1,35 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color: #ddd;
+	line-height: 1.5em;
+}
+.container{
+	width: 720px;
+	margin: 30px auto;
+	background-color: #fff;
+	padding: 50px;
+
+}
+
+.header{
+	padding-bottom: 20px;
+	margin: bottom: 20px;
+}
+
+.content p{
+	margin-bottom: 40px;
+}
+
+.one img{
+	float:left; margin-right: 20px; height:400px;
+	shape-outside:  polygon(nonzero, 0px 0px, 191px 13px, 215px 84px, 196px 132px, 230px 170px, 337px 173px, 333px 226px, 272px 257px, 241px 358px, 212px 390px, 201px 409px, 0px 400px);
+}
+
+.two img{
+	float: right;
+	shape-outside:  polygon(nonzero, -13px 473px, -7px 443px, 26px 389px, 191px 382px, 227px 307px, 312px 198px, 320px 170px, 325px 95px, 313px 29px, 510px 0px, 510px 519px, 85px 501px);
+}

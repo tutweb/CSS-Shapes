@@ -1,0 +1,2 @@
+<h2>CSS Shapes | Untuk membuat layout ala majalah</h2>
+<p>Baca tutorial selengkapnya di <a href="http://www.tutorial-webdesign.com/cara-mudah-mengunakan-css-shapes-layout-web-ala-majalah">tutorial-webdesign.com</a></p>
